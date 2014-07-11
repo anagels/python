@@ -17,7 +17,7 @@ class ControllerMain():
     def __init__(self):
         """ Initialize """
         self.loaded_inventory = []
-        self.inventory_file = "data/inventory.md"
+        self.inventory_file = "data/inventory.txt"
 
     # Methods
     ## General
